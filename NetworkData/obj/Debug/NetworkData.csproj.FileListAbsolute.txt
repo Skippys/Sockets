@@ -1,0 +1,4 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\Sockets\NetworkData\bin\Debug\NetworkData.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\Sockets\NetworkData\bin\Debug\NetworkData.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\Sockets\NetworkData\obj\Debug\NetworkData.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\Sockets\NetworkData\obj\Debug\NetworkData.pdb
